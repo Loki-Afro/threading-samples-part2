@@ -1,4 +1,4 @@
-package de.traso.threading;
+package com.github.loki.afro.threading;
 
 import java.util.Arrays;
 import java.util.List;
